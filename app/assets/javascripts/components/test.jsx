@@ -1,7 +1,9 @@
-var HelloMessage = React.createClass({
+
+var app = React.createClass({
   render: function() {
     return (
-      <h1>Hello {this.props.name}!</h1>
+      <h1>This App </h1>
+    	
     )
   }
 });
